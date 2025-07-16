@@ -1,6 +1,6 @@
 // YouTube Music Player App
 // Replace 'YOUR_API_KEY_HERE' with your actual YouTube Data API v3 key
-const API_KEY = 'YOUR_API_KEY_HERE';
+const API_KEY = 'AIzaSyBd4uPJZ9qoLAsKicKuP5GG8JBhAt5yz9I';
 const MAX_RESULTS = 10;
 
 // Global variables
