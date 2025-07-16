@@ -1,5 +1,5 @@
 // Replace this with your own YouTube Data API v3 key
-const API_KEY = 'AIzaSyBd4uPJZ9qoLAsKicKuP5GG8JBhAt5yz9I';
+const API_KEY = 'AIzaSyBNd45uhTNRfzMhtUiXJ8gNeUNzPKtx_Z8';
 const MAX_RESULTS = 10;
 
 // DOM Elements
